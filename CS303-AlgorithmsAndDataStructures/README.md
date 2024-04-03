@@ -1,5 +1,5 @@
 # Algorithms and Data Structures Course Repository
-Welcome to the repository for the <b>Algorithms and Data Structures</b> course at The University of Alabama at Birmingham (UAB). This repository serves as a testament to your exploration of the intricate world of algorithms and data structures, where you honed your problem-solving skills and gained a deep understanding of fundamental concepts that power efficient computation.
+Welcome to the repository for the <b>Algorithms and Data Structures</b> course at The University of Alabama at Birmingham (UAB). This repository serves as a testament to my exploration of the intricate world of algorithms and data structures, where I honed my problem-solving skills and gained a deep understanding of fundamental concepts that power efficient computation.
 
 <h3> Course Highlights </h3>
 <ul>
@@ -23,9 +23,9 @@ Welcome to the repository for the <b>Algorithms and Data Structures</b> course a
 </ul>
 
 <h3> Projects and Homeworks </h3>
-Throughout the course, you embarked on a journey of exploration and learning. You tackled projects and homework that tested your understanding of algorithms and data structures. These endeavors enriched your problem-solving abilities and laid the foundation for your proficiency in Java programming.<br><br><br>
+Throughout the course, I embarked on a journey of exploration and learning. I tackled projects and homework that tested my understanding of algorithms and data structures. These endeavors enriched my problem-solving abilities and laid the foundation for my proficiency in Java programming.<br><br><br>
 
 <h2></h2>
 <footer>
-  <b>Note:</b> The content in this repository encapsulates your journey through the <b>Algorithms and Data Structures</b> course at UAB. Through rigorous exploration and hands-on projects, you've delved into the heart of efficient computation. The repository stands as a testament to your dedication to mastering algorithmic paradigms and data structures, vital skills that empower you to craft elegant solutions to complex problems.
+  <b>Note:</b> The content in this repository encapsulates my journey through the <b>Algorithms and Data Structures</b> course at UAB. Through rigorous exploration and hands-on projects, I've delved into the heart of efficient computation. The repository stands as a testament to my dedication to mastering algorithmic paradigms and data structures, vital skills that empower me to craft elegant solutions to complex problems.
 </footer>
